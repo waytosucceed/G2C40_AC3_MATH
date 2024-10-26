@@ -1,0 +1,38 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Mia looks at the apples on the tree. Can you help her complete the equation?",
+        "options":["",""],
+        "answers": ["2","2"],
+        "secondImg":"./images/1.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "The stars are shining brightly in the sky. Can you help Mia complete the equation?",
+        "options":["",""],
+        "answers": ["1","4"],
+        "secondImg":"./images/2.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Mia is counting the peaches. Can you complete this equation?",
+        "options":["",""],
+        "answers": ["4","2"],
+        "secondImg":"./images/3.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": " Look at the golden pears! Can you help Mia in filling the empty box?",
+        "options":["",""],
+        "answers": ["3","3"],
+        "secondImg":"./images/4.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "The mangoes looked so yummy! Can you complete the mango equation for Mia?",
+        "options":["",""],
+        "answers": ["5","2"],
+       "secondImg":"./images/5.jpg"
+    }
+  ]
+  

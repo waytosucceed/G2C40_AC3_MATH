@@ -1,0 +1,72 @@
+[
+  {
+    "questionNo": 1,
+    "question": "The creature pointed to the glowing number line and said, \"Fill in the empty box and complete the number sentence.\"",
+    "options":["3","×","2","=",""],
+    "answers": ["3","×","2","=","6"],
+    "secondImg":"./images/11.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "This number sentence has a missing part, said the creature. “Can you complete it by filling in the empty box?” ",
+    "options":["4","×","2","=",""],
+    "answers": ["4","×","2","=",""],
+    "secondImg":"./images/12.jpg"
+  },
+  {
+    "questionNo": 3,
+    "question": "The next challenge of Thomas was to fill in the boxes to complete the number sentence. ",
+    "options":["5","×","2","=",""],
+    "answers": ["5","×","2","=","10"],
+    "secondImg":"./images/13.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "Help Thomas in filling in the correct numbers to complete the number sentence.",
+    "options":["6","×","2","=",""],
+    "answers": ["6","×","2","=","12"],
+    "secondImg":"./images/14.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Thomas must fill in the blank boxes to complete the multiplication sentence and reach the next challenge.",
+    "options":["7","×","2","=",""],
+    "answers": ["7","×","2","=","14"],
+    "secondImg":"./images/15.jpg"
+  }, 
+  {
+    "questionNo": 6,
+    "question": "There are numbers missing in the multiplication sentence. Thomas needs your help to fill in the empty boxes.",
+    "options":["1","×","","=","5"],
+    "answers": ["1","×","5","=","5"],
+    "secondImg":"./images/16.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "His next challenge was to complete the multiplication sentence by filling the empty boxes.",
+    "options":["2","×","5","=",""],
+    "answers": ["2","×","5","=","10"],
+    "secondImg":"./images/17.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": " The forest creature challenged Thomas with the below given number line. Help him by completing the number sentence.",
+    "options":["3","×","5","=",""],
+    "answers": ["3","×","5","=","15"],
+    "secondImg":"./images/18.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Thomas needs to form this multiplication sentence by filling in the empty box.",
+    "options":["","×","10","=","10"],
+    "answers": ["1","×","10","=","10"],
+    "secondImg":"./images/19.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "Thomas got one last multiplication sentence challenge. He must fill in the empty box to complete it.",
+    "options":["","×","10","=","20"],
+    "answers": ["2","×","10","=","20"],
+    "secondImg":"./images/20.jpg"
+  }
+]
